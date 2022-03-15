@@ -1,3 +1,3 @@
 # Linux-Server-Administration
-This is my university course.<br>
+University Tasks, Labs, projects and practices<br>
 University: Wroclaw University of Science and Technology
