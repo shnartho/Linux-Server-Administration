@@ -1,2 +1,2 @@
 # Linux-Server-Administration
-#Linux #Shell #scripting
+#Linux #Shell #Scripting
