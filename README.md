@@ -1,2 +1,2 @@
 # Linux-Server-Administration
-#Linux #Shell #Scripting
+This is my university course. 
