@@ -1,3 +1,5 @@
 # Linux-Server-Administration🎯
-University Tasks, Labs, projects and practices 👨‍🎓<br>
-University: Wroclaw University of Science and Technology 🎒
+University Based course on Python Programming 🔥<br>
+Lab 3 Text console: shells, basic commands, scripts 📂
+Lab 4 Practical management of accounts and user groups 📗
+Lab 5 Management of disks and filesystems🎒
