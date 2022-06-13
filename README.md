@@ -11,6 +11,8 @@ Lab 6 Performing data compression, Backing up and recovering data, Operations sc
 Lab 7 System update, installation, upgrade and uninstallation of additional software using installation packages and software repositories 📖 <br>
 Lab 8 Configuring printing in the Linux environment, Graphic environment - X Window 🖼️ <br>
 
+<br><h4>Some hands-on practice screenshots ....⤵️</h4><br>
+
 <h2>Securing the server and Remote system 
 administration via SSH on Linux<h2>
   
